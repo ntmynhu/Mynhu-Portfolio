@@ -36,7 +36,7 @@ export function Projects() {
         "Customers visit the shop with different orders",
         "Earn coins to expand your garden and unlock new flowers",
       ],
-      role: "Solo Developer",
+      role: "Solo Developer, Artist",
       duration: "3 months",
       platform: "Android, WebGL",
       links: {
